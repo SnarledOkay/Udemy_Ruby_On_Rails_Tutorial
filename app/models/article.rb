@@ -1,0 +1,12 @@
+class Article < ApplicationRecord
+end
+
+
+
+
+
+
+
+
+
+
